@@ -1,0 +1,10 @@
+{
+  "name": "mongodb-uri",
+  "description": "mongodb-uri, for parsing/generating a MONGO_URL",
+  "homepage": "https://github.com/chhib/meteor-mongodb-uri",
+  "author": "David Andersson <david@royapp.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/chhib/meteor-mongodb-uri.git",
+  "packages": {
+  }
+}
