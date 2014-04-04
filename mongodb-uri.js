@@ -1,0 +1,1 @@
+MongoDBURI = Npm.require("mongodb-uri");
