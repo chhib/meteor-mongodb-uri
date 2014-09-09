@@ -1,6 +1,6 @@
 Package.describe({
   name: 'chhib:mongodb-uri',
-  version: '0.9.0',
+  version: '0.9.1',
   git: 'https://github.com/chhib/meteor-mongodb-uri.git',
   summary: 'A helper for parsing MONGO_URL'
 });
