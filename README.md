@@ -1,10 +1,10 @@
 Meteor-mongodb-uri
 ===============
-A wrapper around [mongodb-uri](https://github.com/mongolab/mongodb-uri-node) for use with [Meteorite](https://github.com/oortcloud/meteorite) on top of [Meteor](http://meteor.com)
+A wrapper around [mongodb-uri](https://www.npmjs.org/package/mongodb-uri) for use with [Meteor](http://meteor.com)
 
 ##Install
 ``` sh
-mrt add mongodb-uri
+meteor add chhib:mongodb-uri
 ```
 
 ##Usage
